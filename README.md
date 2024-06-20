@@ -67,7 +67,7 @@ pip install image-processing-leticiamilan
 ## Como usar em qualquer projeto
 
 ```python
-from image_processing.processing import combination
+from image-processing-leticiamilan.processing import combination
 combination.find_difference(image1, image2)
 ```
 <!-- <img width="auto" src="https://github.com/LeticiaMilan/image-processing-package/blob/master/image_processing.png?raw=true"> -->
